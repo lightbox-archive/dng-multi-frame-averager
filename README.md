@@ -657,12 +657,6 @@ Cascadia Mono などの TrueType フォントをお試しください。
 - [`ADOBE-DNG-SDK-LICENSE.txt`](ADOBE-DNG-SDK-LICENSE.txt) — DNG SDK のライセンス原文
 - [`ADOBE-DNG-PATENT-LICENSE.txt`](ADOBE-DNG-PATENT-LICENSE.txt) — DNG 仕様の特許ライセンス原文
 
-**実行ファイルを配布する際は、これらを必ず添付してください。**
-第三者のライセンス条項が求めている表示です。
-
-Adobe DNG SDK のソースコード自体は本リポジトリに含まれていません
-(別途 Adobe のライセンス条項に同意の上で取得してください)。
-
 ### 商標について
 
 Adobe および DNG は、米国およびその他の国における Adobe Inc. の商標または登録商標です。
